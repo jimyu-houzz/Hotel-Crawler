@@ -1,8 +1,1 @@
 Hello Previous
-<<<<<<< HEAD
-line 2
-line 3
-line 4
-line 5
-=======
->>>>>>> parent of 3da2484 (update one line)
