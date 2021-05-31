@@ -3,5 +3,4 @@ This is line 2
 This is line 3
 Finished
 I am going to remove this line later.
-Lets try adding another line of text here.
 Hahaha.
